@@ -21,13 +21,13 @@ class SkillActivity : BaseActivity() {
 
     }
 
-    fun onBallerClicked(view: View) {
+    fun onBallerClick(view: View) {
         beginnerSkillBtn.isChecked = false
         skill = "baller"
 
     }
 
-    fun onBeginnerClicked(view: View) {
+    fun onBeginnerClick(view: View) {
         ballerSkillBtn.isChecked = false
         skill = "beginner"
 
