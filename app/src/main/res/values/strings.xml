@@ -19,4 +19,8 @@
     <string name="get_started">GET STARTED</string>
     <string name="welcome_screen">welcome screen</string>
     <string name="swoosh_logo">swoosh logo</string>
+    <string name="i_am_a">I am a:</string>
+    <string name="beginner">BEGINNER</string>
+    <string name="baller">BALLER</string>
+    <string name="finish">FINISH</string>
 </resources>
